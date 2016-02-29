@@ -3,7 +3,7 @@
 # SovietKetchup
 # v1.1.0
 
-module CollatzCycle
+module CollatzConjecture
   def collatz
     # Check number is positive
     raise ArgumentError, "Argument is not a positive Integer" unless self > 0 
