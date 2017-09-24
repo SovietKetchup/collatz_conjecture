@@ -1,0 +1,3 @@
+Run a collatz cycle for a given number.
+
+The Collatz Conjecture proposes that all number will eventually reach 1 (and then loop 4,2,1,4,2,1 etc)
